@@ -1,0 +1,9 @@
+{
+  "especialidades": [
+    {"id": "ESP-001", "nombre": "Odontología General", "duracion_min": 30},
+    {"id": "ESP-002", "nombre": "Ortodoncia", "duracion_min": 45},
+    {"id": "ESP-003", "nombre": "Endodoncia", "duracion_min": 40},
+    {"id": "ESP-004", "nombre": "Pediatría Dental", "duracion_min": 30},
+    {"id": "ESP-005", "nombre": "Cirugía Oral", "duracion_min": 60}
+  ]
+}
